@@ -149,5 +149,10 @@
             </plugin>
         </plugins>
     </build>
-
+	<developers>
+		<developer>
+			<name>marcos</name>
+			<email>marcos@marcos.mar</email>
+		</developer>
+	</developers>
 </project>
